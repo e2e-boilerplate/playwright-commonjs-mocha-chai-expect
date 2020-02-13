@@ -9,7 +9,7 @@ describe("Sandbox", () => {
     this.timeout(20000);
     browser = process.env.GITHUB_ACTIONS
       ? await chromium.launch()
-      : await chromium.launch({ headless: false });
+      : await chromium.launch();
 
     const context = await browser.newContext();
     page = await context.newPage();
