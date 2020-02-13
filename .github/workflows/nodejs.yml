@@ -1,9 +1,9 @@
-name: puppeteer-commonjs-mocha-chai
+name: playwright-commonjs-mocha-chai
 
-on: 
+on:
   push:
   schedule:
-    - cron: '0 0 1-31/2 * *' 
+    - cron: "0 0 1-31/2 * *"
 
 jobs:
   build:
@@ -20,7 +20,9 @@ jobs:
           npm ci
         env:
           CI: true
-      - name: RUN TESTS
+      - name: LINT
         run: |
           npm run lint
+      - name: TEST
+        run: |
           npm run test
