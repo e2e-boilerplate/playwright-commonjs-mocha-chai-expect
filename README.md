@@ -1,12 +1,12 @@
-# Puppeteer: (commonjs, mocha, chai)
+# Playwright: (commonjs, mocha, chai)
 
-[![GitHub Actions status | e2e-boilerplates/puppeteer-commonjs-mocha-chai](https://github.com/e2e-boilerplates/puppeteer-commonjs-mocha-chai/workflows/puppeteer-commonjs-mocha-chai/badge.svg)](https://github.com/e2e-boilerplates/puppeteer-commonjs-mocha-chai/actions?workflow=puppeteer-commonjs-mocha-chai)
+[![GitHub Actions status | e2e-boilerplates/playwright-commonjs-mocha-chai](https://github.com/e2e-boilerplates/playwright-commonjs-mocha-chai/workflows/playwright-commonjs-mocha-chai/badge.svg)](https://github.com/e2e-boilerplates/playwright-commonjs-mocha-chai/actions?workflow=playwright-commonjs-mocha-chai)
 
-Puppeteer end-to-end test automation boilerplate project. Using commonjs, mocha and chai.
+Playwright end-to-end test automation boilerplate project. Using CommonJS, Mocha and Chai.
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/puppeteer-commonjs-mocha-chai.git
-    cd puppeteer-commonjs-mocha-chai
+    git clone git@github.com:e2e-boilerplates/playwright-commonjs-mocha-chai.git
+    cd playwright-commonjs-mocha-chai
     npm install
     npm run test

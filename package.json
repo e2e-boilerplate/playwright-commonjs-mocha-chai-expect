@@ -1,13 +1,13 @@
 {
-  "name": "puppeteer-commonjs-mocha-chai",
+  "name": "playwright-commonjs-mocha-chai",
   "version": "1.0.0",
-  "description": "Puppeteer end-to-end test automation boilerplate, Using CommonJS, Mocha and Chai.",
+  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Mocha and Chai.",
   "scripts": {
     "test": "npx mocha spec/sandbox.spec.js",
     "lint": "npx eslint --ext .js ./ --fix"
   },
   "keywords": [
-    "puppeteer",
+    "playwright",
     "commonjs",
     "mocha",
     "chai",
@@ -34,7 +34,6 @@
     }
   },
   "dependencies": {
-    "playwright": "0.10.0",
-    "puppeteer": "2.1.1"
+    "playwright": "0.10.0"
   }
 }
