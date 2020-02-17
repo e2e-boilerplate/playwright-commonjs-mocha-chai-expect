@@ -1,10 +1,10 @@
 {
-  "name": "playwright-commonjs-mocha-chai",
+  "name": "playwright-commonjs-mocha-chai-expect",
   "version": "1.0.0",
-  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Mocha and Chai.",
+  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Mocha, Chai and Expect.",
   "scripts": {
-    "test": "npx mocha spec/sandbox.spec.js",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "lint": "npx eslint --ext .js ./ --fix",
+    "test": "npx mocha spec/sandbox.spec.js"
   },
   "keywords": [
     "playwright",
@@ -12,7 +12,9 @@
     "mocha",
     "chai",
     "boilerplates",
-    "example"
+    "example",
+    "e2e",
+    "e2e test"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
