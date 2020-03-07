@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "dependencies": {
     "playwright": "0.11.1"
   },
@@ -23,14 +23,9 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "chai",
     "commonjs",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "mocha",
     "playwright"
   ],
