@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/playwright-commonjs-mocha-chai-expect](https://github.com/e2e-boilerplate/playwright-commonjs-mocha-chai-expect/workflows/playwright-commonjs-mocha-chai-expect/badge.svg)](https://github.com/e2e-boilerplate/playwright-commonjs-mocha-chai-expect/actions?workflow=playwright-commonjs-mocha-chai-expect)
+[![GitHub Actions status | e2e-boilerplate/playwright-commonjs-mocha-chai-expect](https://github.com/e2e-boilerplate/playwright-commonjs-mocha-chai-expect/workflows/playwright-commonjs-mocha-chai-expect/badge.svg)](https://github.com/e2e-boilerplate/playwright-commonjs-mocha-chai-expect/actions?workflow=playwright-commonjs-mocha-chai-expect) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Playwright Boilerplate
 
