@@ -1,5 +1,5 @@
 {
-  "author": "",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/playwright-commonjs-mocha-chai-expect/issues"
   },
@@ -26,9 +26,14 @@
     }
   },
   "keywords": [
+    "boilerplate",
     "chai",
     "commonjs",
+    "e2e",
+    "e2e tests",
+    "example",
     "expect",
+    "integration test",
     "mocha",
     "playwright"
   ],
