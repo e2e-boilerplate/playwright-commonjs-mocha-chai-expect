@@ -6,8 +6,7 @@ Playwright end-to-end test automation boilerplate, Using Commonjs, Mocha, Chai a
 
 ## Getting Started
 
-1. git clone git@github.com:e2e-boilerplate/playwright-commonjs-mocha-chai-expect.git
-
-2. cd playwright-commonjs-mocha-chai-expect
-
-3. npm install
+    	1. git clone git@github.com:e2e-boilerplate/playwright-commonjs-mocha-chai-expect.git
+    	2. cd playwright-commonjs-mocha-chai-expect
+    	3. npm install
+    	4. npm run test
