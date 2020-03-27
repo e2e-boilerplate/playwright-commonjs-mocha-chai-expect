@@ -16,7 +16,7 @@ describe("Sandbox", () => {
 
     await page
       .goto("https://e2e-boilerplate.github.io/sandbox/", {
-        waitUntil: "networkidle0"
+        waitUntil: "networkidle0",
       })
       .catch(() => {});
   });
@@ -29,7 +29,7 @@ describe("Sandbox", () => {
 
   it("should be on the sandbox", async () => {
     await page.waitFor("h1");
-    const title = await page.$eval("h1", el => el.textContent);
+    const title = await page.$eval("h1", (el) => el.textContent);
 
     expect(await page.title()).to.equal("Sandbox");
     expect(title).to.equal("Sandbox");
