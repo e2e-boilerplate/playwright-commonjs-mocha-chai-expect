@@ -1,12 +1,12 @@
 | referrer                                                                                | count | uniques |
 | :-------------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/actions                          | 6     | 1       |
-| /e2e-boilerplate/playwright-commonjs-mocha-chai-expect                                  | 4     | 2       |
+| /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/actions                          | 7     | 1       |
+| /e2e-boilerplate/playwright-commonjs-mocha-chai-expect                                  | 5     | 2       |
 | /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/blob/master/spec/sandbox.spec.js | 3     | 1       |
 | /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/actions/runs/72248626            | 2     | 1       |
 | /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/runs/566040258                   | 2     | 1       |
 | /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/search                           | 2     | 1       |
 | /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/tree/master/spec                 | 2     | 1       |
 | /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/actions/runs/70924040            | 1     | 1       |
-| /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/runs/561490678                   | 1     | 1       |
-| /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/runs/562109682                   | 1     | 1       |
+| /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/graphs/traffic                   | 1     | 1       |
+| /e2e-boilerplate/playwright-commonjs-mocha-chai-expect/pulse                            | 1     | 1       |
