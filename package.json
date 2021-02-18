@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/playwright-commonjs-mocha-chai-expect/issues"
   },
   "dependencies": {
-    "chai": "4.2.0",
+    "chai": "4.3.0",
     "chromedriver": "87.0.7",
     "mocha": "8.2.1",
     "playwright": "1.8.0"
