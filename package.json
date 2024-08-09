@@ -6,7 +6,7 @@
   "dependencies": {
     "chai": "4.3.7",
     "chromedriver": "90.0.1",
-    "mocha": "9.2.2",
+    "mocha": "10.7.3",
     "playwright": "1.25.2"
   },
   "description": "Playwright end-to-end test automation boilerplate. Using Commonjs, Mocha, Chai and Expect.",
